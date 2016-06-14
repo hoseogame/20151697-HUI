@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FootBallGame">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIgAAEAABAAAAgAAEAAAABAAAAAIAAAAhAAAUAAI=</HashCode>
+      <FileName>FootBallGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player&lt;T&gt;">
+    <Position X="21" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAAAAAAABAAAAAAAAAAAAgAAAAAgAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player&lt;char&gt;">
+    <Position X="21" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screen">
+    <Position X="21" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAQAAAAAABAAAAABABABAAAAEBAAgAAAIAAA=</HashCode>
+      <FileName>Screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAYAAAAGEAAAAAAGAAAAAAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>Vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Ball::BallInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Ball.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAIAAAQIAAAAIgAEAgAAEUBIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Effect">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAIAgEAABAAAAAAAAAAAACAAIAAAAgAAAUAAA=</HashCode>
+      <FileName>Effect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goaldae">
+    <Position X="6" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Goaldae::GoaldaeInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Goaldae.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAQIAAAAIAAEAiAAA0BAA=</HashCode>
+      <FileName>Goaldae.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAQAAABQgCAAAAIAAAAAAAAIAAAAgAAA0AIA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBBAUAAA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FaildeScene" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAUAAA=</HashCode>
+      <FileName>FaildeScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InitScene" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>InitScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadyScene" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>ReadyScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResultScene" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAUAgA=</HashCode>
+      <FileName>ResultScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunningScene" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACCAAAAAAAAAQAIAAAABAgAgACAAAgIAgAAAUAAA=</HashCode>
+      <FileName>RunningScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuccessScene" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>SuccessScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="STAGE_INFO">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAEgAgAAAAAAAAAAAgAAAQAAAAAA=</HashCode>
+      <FileName>FootBallDefault.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TIME">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAABAAAEAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FootBallDefault.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PLAYERPOS">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="GAME_STATE" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACAAAAAAABAAQAAAAAAAQAAAAAAAAAAAACQAAA=</HashCode>
+      <FileName>FootBallDefault.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

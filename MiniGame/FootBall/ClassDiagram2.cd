@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleGame" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAQAAAAAAAAAAAAIAAACAAAAUAAA=</HashCode>
+      <FileName>ConsoleGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallGame" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIgAAEAABAAAAgAAEAAAAAAAAAAIAAAAhAAAUAAI=</HashCode>
+      <FileName>FootBallGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="1.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAIAAAQIAAAAIgAEAgAAEUBIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Effect" Collapsed="true">
+    <Position X="3.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAIAgEAABAAAAAAAAAAAACAAIAAAAgAAAUAAA=</HashCode>
+      <FileName>Effect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goaldae" Collapsed="true">
+    <Position X="5.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAQIAAAAIAAEAiAAA0BAA=</HashCode>
+      <FileName>Goaldae.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallObject" Collapsed="true">
+    <Position X="3.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAABQQCAAAAIAAAAACAAIAAAAgAAA0AIA=</HashCode>
+      <FileName>FootBallObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallState" Collapsed="true">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAgAAAUABA=</HashCode>
+      <FileName>FootBallState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallFaildeScene" Collapsed="true">
+    <Position X="1.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>FootBallFaildeScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallInitScene" Collapsed="true">
+    <Position X="3.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>FootBallInitScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallReadyScene" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>FootBallReadyScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallResultScene" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAkAAAUAAA=</HashCode>
+      <FileName>FootBallResultScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallRunningScene" Collapsed="true">
+    <Position X="10.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACCAAAAAAAAAAAKAAAABAgAgACAAAgAAgEAAUAAA=</HashCode>
+      <FileName>FootBallRunningScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootBallSuccessScene" Collapsed="true">
+    <Position X="12.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAAgAAAUAAA=</HashCode>
+      <FileName>FootBallSuccessScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeGame" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIgAAAAABIgAAAAAAAAAAAAAAAAIAAAAoEAAUAAA=</HashCode>
+      <FileName>SnakeGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="9" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgiAAgAAAAAAAAAAAACAAAAAAIAAAAIAgAAgKAEUAAQ=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake" Collapsed="true">
+    <Position X="11.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAiQAAAAAAAQCAGAAACIEAAIAYAIAgIAgBAwCAAdAAQ=</HashCode>
+      <FileName>Snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeObject" Collapsed="true">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAABQACAAAAIAAEBAAAAIAAAAgAAA0AIA=</HashCode>
+      <FileName>SnakeObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeState" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAWAAA=</HashCode>
+      <FileName>SnakeState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeFailedScene" Collapsed="true">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>SnakeFailedScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeInitScene" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>SnakeInitScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeReadyScene" Collapsed="true">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAUAAA=</HashCode>
+      <FileName>SnakeReadyScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeResultScene" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAAUAAA=</HashCode>
+      <FileName>SnakeResultScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeRunningScene" Collapsed="true">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAQAAAAAAAACAAAIAAAgAAAAQABAAAAAWAAA=</HashCode>
+      <FileName>SnakeRunningScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeSuccessScene" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>SnakeSuccessScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player&lt;T&gt;" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAAAAAAABAAAAAAAAAAAAgAAAAAgAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player&lt;char&gt;" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screen" Collapsed="true">
+    <Position X="18.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAQAAAAAABAAAAABABABAAAAEBAAgAAAIAAA=</HashCode>
+      <FileName>Screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D" Collapsed="true">
+    <Position X="14.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAYAAAAGEAAAAAAGAAAAAAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>Vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FOOTBALLSTAGE_INFO" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAEgAgAAAAAAAAAAAgAAAQAAAAAA=</HashCode>
+      <FileName>FootBallDefault.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FOOTBALLTIME" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAABAAAEAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FootBallDefault.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PLAYERPOS" Collapsed="true">
+    <Position X="18.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SNAKESTAGE_INFO" Collapsed="true">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAABEAAAAAAAgAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>SnakeDefault.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SNAKETIME" Collapsed="true">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAAAAAAAAAAAAAAAACCAAAAAEAAA=</HashCode>
+      <FileName>SnakeDefault.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="GAME_STATE" Collapsed="true">
+    <Position X="18.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACAAAAAAABAAQAAAAAAAQAAAAAAAAAAAACQAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DIRECT" Collapsed="true">
+    <Position X="16.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="COLOR" Collapsed="true">
+    <Position X="14.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAAQAAgFQIAAAAAAAABCAgAAAAAAEAQABAAAEAA=</HashCode>
+      <FileName>Screen.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
